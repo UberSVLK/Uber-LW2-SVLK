@@ -1,0 +1,11 @@
+form {
+  margin: 0 auto;
+  width: 600px;
+  background: rgb(204, 30, 166);
+}
+input {
+  margin-left: 200px;
+  border: 1.5px solid rgb(222, 233, 63);
+  border-radius: 70px;
+  margin-top: 10px;
+}
